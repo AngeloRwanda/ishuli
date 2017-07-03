@@ -1,0 +1,2 @@
+class Ikigo < ApplicationRecord
+end
